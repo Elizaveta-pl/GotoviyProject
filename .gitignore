@@ -1,0 +1,10 @@
+.idea
+venv/
+__pycache__
+.ipynb_checkpoints
+*.pyc
+*.log
+.coverage
+notebook/data/write.*
+*.pptx
+*.7z
